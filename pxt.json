@@ -1,5 +1,6 @@
 {
     "name": "saitama",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "device": "*"
@@ -11,7 +12,8 @@
         "assets.json",
         "main.py",
         "images.g.jres",
-        "images.g.ts"
+        "images.g.ts",
+        "tutorial-info-cache.json"
     ],
     "testFiles": [
         "test.ts"
